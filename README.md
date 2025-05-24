@@ -16,9 +16,7 @@ This is a **dynamic and interactive Excel dashboard** that visualizes road accid
 - Data Cleaning & Structuring
 - Analytical Thinking & Storytelling
 
-## 📁 Files Included
-- `Road_Accidents_Dashboard.xlsx` - Fully interactive dashboard
-- `dashboard_preview.png` - Static preview
+## Access Dashboard here-https://drive.google.com/file/d/1jY4mUP3io8Uto8P8Pqec49QBHymu88Xq/view?usp=drive_link
 
 ## 📸 Dashboard Snapshot
 ![image](https://github.com/user-attachments/assets/3d006bb3-d6e2-400d-843f-72f57428031f)
